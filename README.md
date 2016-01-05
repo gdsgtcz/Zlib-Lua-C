@@ -1,2 +1,2 @@
-# Zlib-Lua-C-
+# Zlib-Lua-C++
 zlib for lua and C++
